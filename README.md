@@ -39,9 +39,6 @@ Budgeting, forecasting, scenario planning, and valuation models.
 ➡ **cashflow-dashboard**  
 13-week cashflow forecasting tools and dashboard examples.
 
-➡ **vat-compliance-toolkit**  
-VAT reconciliations, compliance checklists, and submission support tools.
-
 ---
 
 ## How to use this portfolio
