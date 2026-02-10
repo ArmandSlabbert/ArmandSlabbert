@@ -11,14 +11,15 @@ models, but end-to-end processes, controls, and governance.
 
 ## What you’ll find here
 
-This portfolio is structured as a **Finance Operating Manual**, supported by
-practical templates, models, and checklists used in senior finance roles.
+This portfolio is structured around a practical **Finance Operating Manual**,
+supported by templates, SOPs, and execution checklists used in senior
+finance environments.
 
 ### Core areas covered
 • Month-end close & reporting  
 • General ledger & journal controls  
 • Balance sheet reconciliations  
-• Revenue recognition & cut-off (IFRS 15)  
+• Revenue recognition & cut-off  
 • VAT & statutory compliance  
 • Payroll & contractor governance  
 • Cash & banking controls  
@@ -28,43 +29,44 @@ practical templates, models, and checklists used in senior finance roles.
 
 ---
 
-## Featured repositories
+## 🚀 Featured repositories
 
 ➡ **finance-templates**  
-Finance Operating Manual including SOPs, checklists, and control frameworks.
+End-to-end Finance Operating Manual including SOPs, control frameworks,
+and operational checklists.  
+👉 https://github.com/ArmandSlabbert/finance-templates
 
-➡ **forecasting-models**  
-Budgeting, forecasting, scenario planning, and valuation models.
-
-➡ **cashflow-dashboard**  
-13-week cashflow forecasting tools and dashboard examples.
+➡ **Profile & Portfolio Hub**  
+Background, philosophy, and overview of how my finance systems are
+structured.  
+👉 https://github.com/ArmandSlabbert
 
 ---
 
 ## How to use this portfolio
 
-Each repository contains:
-• Clear README documentation  
-• Structured folders  
+Each repository provides:
+• Clear documentation  
+• Structured navigation  
+• Practical execution tools  
+• Governance alignment  
 • Dummy or anonymised data  
-• Audit- and management-ready formats  
 
-This portfolio is intended to demonstrate **finance leadership capability**
-rather than isolated technical skills.
+This portfolio demonstrates **how finance should operate**, not just how
+spreadsheets are built.
 
 ---
 
 ## Professional focus
 
-• Finance Manager / Financial Controller roles  
-• FP&A and commercial finance  
-• Governance, controls, and audit readiness  
-• Scaling finance functions in growing organisations  
+• Finance Manager / Financial Controller  
+• Building scalable finance operations  
+• Governance, risk, and compliance  
+• Delivering reliable information for decision-making  
 
 ---
 
 ## Disclaimer
 
-All content in this repository uses dummy data and is provided for portfolio
-and educational purposes only. It does not represent the policies or data of
-any specific organisation.
+All content uses anonymised or illustrative data and is provided for
+portfolio and educational purposes only.
