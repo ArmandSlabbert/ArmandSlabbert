@@ -36,10 +36,6 @@ End-to-end Finance Operating Manual including SOPs, control frameworks,
 and operational checklists.  
 👉 https://github.com/ArmandSlabbert/finance-templates
 
-➡ **Profile & Portfolio Hub**  
-Background, philosophy, and overview of how my finance systems are
-structured.  
-👉 https://github.com/ArmandSlabbert
 
 ---
 
