@@ -29,7 +29,7 @@ finance environments.
 
 ---
 
-## 🚀 Featured repositories
+## 🚀 Featured repositories (WORK-IN-PROGRESS)
 
 ➡ **finance-templates**  
 End-to-end Finance Operating Manual including SOPs, control frameworks,
