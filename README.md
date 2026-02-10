@@ -37,6 +37,12 @@ and operational checklists.
 👉 https://github.com/ArmandSlabbert/finance-templates
 
 
+➡ **personal-finance-toolkit**  
+Personal budgeting, savings planning, debt management, and financial
+goal tracking tools designed for practical everyday decision-making.  
+👉 https://github.com/ArmandSlabbert/personal-finance-toolkit
+
+
 ---
 
 ## How to use this portfolio
