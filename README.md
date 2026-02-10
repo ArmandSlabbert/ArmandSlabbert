@@ -47,7 +47,7 @@ goal tracking tools designed for practical everyday decision-making.
 
 ## How to use this portfolio
 
-Each repository provides:
+Each repository provides:  
 • Clear documentation  
 • Structured navigation  
 • Practical execution tools  
