@@ -1,6 +1,6 @@
 # Armand Slabbert
 
-Qualified Financial Accountant with 12+ years’ experience across family offices,
+Financial Manager with 15+ years’ experience across family offices,
 private equity, treasury, and auditing. I specialise in building finance
 operations that are accurate, controlled, audit-ready, and decision-focused.
 
